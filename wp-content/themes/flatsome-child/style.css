@@ -1,0 +1,68 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+
+.header-main {box-shadow: 2px 2px 40px rgba(0,0,0,0.3);}
+.header-main .nav > li > a{letter-spacing: -1px;
+	font-size: 17px;}
+.mo-ta{margin-bottom:5px!important}
+#main{background-color: #fff;
+	position: relative;
+	background-image: url(../../uploads/2018/04/bgslider.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;}.button{font-weight:normal}input[type='submit']:not(.is-form){font-weight:normal; text-transform:none; border-radius: 999px;}
+.thanh-phan .row .cot1 .col-inner{ border: 5px solid white; height: 309px; overflow-y:scroll}.thanh-phan .row .cot1 .col-inner p{margin-bottom:10px}
+.thanh-phan .row .cot2 .mb{border: 5px solid white}
+ul li.bullet-star{    padding: 5px 0px 5px 25px;}
+.thanh-phan-tac-dung .cot6 ul{margin-bottom:7px}
+.thanh-phan-tac-dung .cot6 p{margin-bottom:8px}
+.note{background: #a00d3a; border: 1px dashed white; border-radius:4px; padding:10px}
+.vi-sao .col{padding-bottom:0}
+.vi-sao .button{font-weight:normal}
+.cau-chuyen .row2 .cot1 .col-inner{padding:10px; border-radius:4px}
+.cau-chuyen .col{padding-bottom:0}
+.bai-viet .row .col .post-item .col-inner{background: white; padding:9px }
+.blog-single .row.row-large{background: white; border-radius:3px; padding-top:15px}
+.blog-single .large-9{padding-left:15px; padding-right:10px}
+.blog-single .post-sidebar{padding-left:10px; padding-right:15px}
+.blog-single .entry-image {display:none}.blog-single h2{font-size:16px; color: #353535}
+.html-before-comments .post-item .post-title{font-weight: normal; font-size:15px}
+.html-before-comments .post-item .is-divider{display:none}
+.blog-single .entry-category a{font-weight:normal}.blog-single .is-divider{max-width:100%; height:1px}
+.trang-sp .cot3 .post-item .post-title{font-weight:normal; font-size:15px}
+.trang-sp .cot3 .post-item .box-text {padding-bottom: 0;
+	padding-top: 0px;}
+.entry-content strong, .blog-single h1{font-weight:500}
+.entry-content{padding-top:0}
+.trang-sp .col{padding-bottom:0}
+.blog-archive .row.row-large{background:white; border-radius:4px; padding-top:15px}
+.blog-archive .large-9{padding-left:15px; padding-right:10px}
+.blog-archive .post-sidebar{padding-left:10px; padding-right:15px}
+.blog-archive .large-9 .post-date{display:none}
+.blog-archive .large-9 .col-inner .box-text-bottom .box-text h5{font-weight:normal; font-size:16px}
+.page-right-sidebar .row{background: white; border-radius:3px; padding-top:15px}
+.page-right-sidebar .large-9{padding-right:15px}
+.page-right-sidebar .large-3{padding-left:15px}
+.bai-viet .row .col .post-item .box-text .post-title{font-weight:500; font-size:16px}
+.popup-title{font-size:15px; font-weight:normal}
+.sticky-popup{width:300px; font-size:15px}
+.popup-content form{font-size:15px; margin-bottom:0 !important}.popup-content{height:350px; overflow-y:hidden}
+.back-to-top{bottom:50px}
+.absolute-footer.dark {
+	color: rgb(255, 255, 255);
+}
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+}
